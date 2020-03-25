@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://irisfangdemo.visualstudio.com/Contoso%20Air/_apis/build/status/irisfang2018.ContosoAir?branchName=master)](https://irisfangdemo.visualstudio.com/Contoso%20Air/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
